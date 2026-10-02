@@ -1,22 +1,14 @@
-سياسة الخصوصية لتطبيق Kawkab Vadrid
+# Privacy Policy for Kawkab Madrid
 
-تاريخ الانطلاق: 2 أكتوبر 2026
+Effective Date: 2026-01-01
 
-نحن في تطبيق "Kawkab Vadrid" نلتزم بحماية خصوصية بياناتك ومستخدمينا. توضح سياسة الخصوصية هذه كيفية جمع واستخدام وحماية المعلومات عند استخدامك لتطبيقنا أو تواصلك معنا عبر أدوات الأتمتة وخدمات منصة Meta (فيسبوك).
+This application Kawkab Madrid is used to publish 【entity-Real Madrid¦canonical_name=Real Madrid】 news automatically to our own Facebook Page via n8n automation.
 
-1. المعلومات التي جمعها:
-- لا نقوم بجمع أي بيانات شخصية حساسة عن زوار صفحتنا أو مستخدميها سوى ما يتم تفاعله بشكل رسمي عبر المنشورات والتعليقات الخاصة بالصفحة.
-- نستخدم الصلاحيات الممنوحة لتطبيقنا (مثل إدارة النشر والتفاعل على الصفحة) حصرياً لأغراض أتمتة ونشر المحتوى الرياضي والإحصائيات الخاصة بنا عبر أدوات الربط (مثل n8n).
+We do not collect, store, or share any personal data of Facebook users.
 
-2. استخدام البيانات:
-- تُستَخدم البيانات والصلاحيات فقط لغرض جدولة ونشر المحتوى التلقائي على صفحة الفيسبوك الخاصة بنا.
-- لا نقوم بمشاركة أو بيع أو نقل أي بيانات تخص المستخدمين إلى أي طرف ثالث.
+We only use the permission pages_manage_posts to publish content to the Page we own.
 
-3. أمن البيانات:
-- نحرص على تأمين وحماية بيانات اعتماد التطبيق ومفاتيح الوصول (Tokens) وتخزينها بشكل آمن لمنع أي وصول غير مرغوب فيه.
+Data Deletion:
+If you want to delete your data, please contact us at abdalhmudey@gmail.com. We will delete all related data within 24 hours.
 
-4. التعديلات على هذه السياسة:
-- قد نقوم بتحديث سياسة الخصوصية هذه من وقت لآخر، وسيتم نشر أي تعديلات على هذه الصفحة.
-
-للتواصل والاستفسار:
-إذا كانت لديك أي أسئلة حول سياسة الخصوصية، يمكنك التواصل معنا عبر الصفحة الرسمية لتطبيق "Kawkab Vadrid".
+Contact Email: abdalhmudey@gmail.com
